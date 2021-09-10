@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Form-react/static/css/main.91489b49.chunk.css",
+    "main.js": "/Form-react/static/js/main.2e2c19ed.chunk.js",
+    "main.js.map": "/Form-react/static/js/main.2e2c19ed.chunk.js.map",
+    "runtime-main.js": "/Form-react/static/js/runtime-main.595c9735.js",
+    "runtime-main.js.map": "/Form-react/static/js/runtime-main.595c9735.js.map",
+    "static/css/2.fe0ef0a0.chunk.css": "/Form-react/static/css/2.fe0ef0a0.chunk.css",
+    "static/js/2.60fa262a.chunk.js": "/Form-react/static/js/2.60fa262a.chunk.js",
+    "static/js/2.60fa262a.chunk.js.map": "/Form-react/static/js/2.60fa262a.chunk.js.map",
+    "index.html": "/Form-react/index.html",
+    "static/css/2.fe0ef0a0.chunk.css.map": "/Form-react/static/css/2.fe0ef0a0.chunk.css.map",
+    "static/css/main.91489b49.chunk.css.map": "/Form-react/static/css/main.91489b49.chunk.css.map",
+    "static/js/2.60fa262a.chunk.js.LICENSE.txt": "/Form-react/static/js/2.60fa262a.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/Form-react/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.595c9735.js",
+    "static/css/2.fe0ef0a0.chunk.css",
+    "static/js/2.60fa262a.chunk.js",
+    "static/css/main.91489b49.chunk.css",
+    "static/js/main.2e2c19ed.chunk.js"
+  ]
+}
